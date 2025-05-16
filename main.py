@@ -1,3 +1,4 @@
+#dziala
 class Sito:
 
     def __init__(self,n):
@@ -16,6 +17,7 @@ class Sito:
         for i in range(2,self.n+1):
             if self.pierwsze[i]:
                 print(i, end=" ")
+
 
 
 
